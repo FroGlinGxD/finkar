@@ -9,6 +9,7 @@
 Данная команда запускает программу с интерфейсом.
 
 2)java -Dlog4j.configurationFile="..\..\..\resources\log2j2-test.xml" -classpath ..\..;..\..\..\resources\log4j\log4j-api\2.12.0\log4j-api-2.12.0.jar;..\..\..\resources\log4j\log4j-core\2.12.0\log4j-core-2.12.0.jar com.company.Main [Аргумент1] [Аргумент2] [Аргумент3]
+
 Данная команда позволяет запустить приложение из консоли.
 Доступные валюты:
 
