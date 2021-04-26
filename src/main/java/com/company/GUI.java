@@ -61,7 +61,7 @@ public class GUI extends JFrame {
         return valuta.change_currency(money);
     }
 
-    public  GUI() {
+    public void  GUI_create() {
         window = new JFrame("Karkulator");
         text_first = new JTextField();
         text_end = new JTextField();

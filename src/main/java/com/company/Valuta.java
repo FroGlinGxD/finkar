@@ -59,7 +59,6 @@ public class Valuta {
                     line = line.replaceAll("EUR=", "");
                     line = line.replaceAll("VND=", "");
                     line = line.replaceAll("JPY=", "");
-                    System.out.println(line);
                     list.add(line);
                 }
             }
